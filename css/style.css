@@ -884,6 +884,9 @@ nav.main-menu {
 .sub-down li {
   background: #ffffff;
 }
+#fig {
+  border-radius: 50% !important;
+}
 .main-menu ul > li .sub-down li a {
   color: #114c7d;
   font-size: 15px;
