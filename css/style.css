@@ -1198,6 +1198,8 @@ nav.main-menu {
   line-height: 28px;
   color: #000;
   padding: 40px 0px;
+  text-align: justify;
+  justify-content: center;
 }
 .about .about-box .span {
   color: rgb(100, 13, 13) !important;
@@ -1251,6 +1253,7 @@ nav.main-menu {
   font-size: 17px;
   line-height: 28px;
   color: #000;
+  text-align: justify;
 }
 
 .vegetable_img span {
